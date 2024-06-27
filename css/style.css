@@ -1,11 +1,26 @@
 .container {
     background-color: brown;
     width: 800px;
-    height: 400px;
+    height: 650px;
 }
 
 .content {
     background-color: white;
-    width: 500px;
-    height: 150px;
+    width: 600px;
+    height: 250px;
+}
+
+.text-purple {
+    color: rgb(161, 8, 54);
+    font-weight: bold;
+}
+
+.btn-1 {
+    background-color: grey important;
+    color: rgb(161, 8, 54) important;
+}
+
+.h-3 {
+    color: white;
+    font-weight: bold;
 }
