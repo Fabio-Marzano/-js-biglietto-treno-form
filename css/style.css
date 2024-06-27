@@ -1,0 +1,11 @@
+.container {
+    background-color: brown;
+    width: 800px;
+    height: 400px;
+}
+
+.content {
+    background-color: white;
+    width: 500px;
+    height: 150px;
+}
