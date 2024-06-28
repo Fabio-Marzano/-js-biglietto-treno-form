@@ -4,10 +4,27 @@
     height: 650px;
 }
 
+
+
+
+
 .content {
     background-color: white;
-    width: 600px;
-    height: 250px;
+    width: 900px;
+    height: 230px;
+}
+
+.content-grey {
+    background-color: grey;
+    width: 100%;
+    height: 140px;
+}
+
+.content-2 {
+    background-color: white;
+    width: 900px;
+    height: 230px;
+    border-radius: 20px;
 }
 
 .text-purple {
@@ -22,5 +39,10 @@
 
 .h-3 {
     color: white;
+    font-weight: bold;
+}
+
+.p-1 {
+    color: black;
     font-weight: bold;
 }
